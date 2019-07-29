@@ -1,0 +1,4 @@
+C:\Users\Masami\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\192.5728.100\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\Masami\Desktop\kadai\v01
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Masami/Desktop/kadai/v01/cmake-build-debug
